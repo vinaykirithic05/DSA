@@ -34,7 +34,7 @@ Explanation: arr3 = 400, which is maximum.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-24T10:34:56.017Z  
+**Submitted:** 2026-11-24T11:46:22.514Z  
 
 ```java
 class Solution {
